@@ -1,0 +1,6 @@
+Lode Scape 0.0.0.2
+- Minor bug fixes for the launcher
+
+Lode Scape 0.0.0.1
+- Welcome to alpha version!
+- Inital release to start keeping track of versions
