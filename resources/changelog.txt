@@ -1,6 +1,19 @@
-Lode Scape 0.0.0.2
+Lode Scape 1.1.0.1
+- Fixed bug where zooming left the health bar unzoombed
+- When you press 'u' it will set zoom back to default
+- Fixed bug of lights not loading from a save
+- Fixed bug where tools on top would be drawn twice
+- FIxed bug where tools would not be affected by light levels
+- Fixed bug where tool would appear above tree when you are behind it
+- Fixed collision bug near tree chopping area
+
+Lode Scape 1.1.0.0
+- Finally added tiled maps! 
+- Deleted old assets that werent being used
+
+Lode Scape 1.0.0.2
 - Minor bug fixes for the launcher
 
-Lode Scape 0.0.0.1
+Lode Scape 1.0.0.1
 - Welcome to alpha version!
 - Inital release to start keeping track of versions
