@@ -1,0 +1,4 @@
+Project Freeman 0.0.0.3
+- Launcher Created
+- scene2d is awesome
+- go libgdx
