@@ -1,7 +1,7 @@
-Project Freeman 0.0.4
-- Launcher with twitter updates
-- Launcher with change log
-- Launcher is pretty much bug free
+Project Freeman 0.0.4,
+- Launcher with twitter updates,
+- Launcher with change log,
+- Launcher is pretty much bug free;
 ==========
 Project Freeman 0.0.3
 - Launcher Created
