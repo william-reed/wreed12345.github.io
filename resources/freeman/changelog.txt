@@ -1,3 +1,7 @@
+Project Freeman 0.0.5,
+- Launcher now has change log fully working with twitter feed,
+- The 'Join a Game' screen no longer has old login / create account buttons;
+==========
 Project Freeman 0.0.4,
 - Launcher with twitter updates,
 - Launcher with change log,
