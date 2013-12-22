@@ -1,3 +1,8 @@
+Project Freeman 0.0.6,
+- launcher with improved text fields,
+- Creatable / joinable games,
+- Auto-updating player list in games;
+==========
 Project Freeman 0.0.5,
 - Launcher now has change log fully working with twitter feed,
 - The 'Join a Game' screen no longer has old login / create account buttons;
