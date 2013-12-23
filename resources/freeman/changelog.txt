@@ -1,7 +1,8 @@
-Project Freeman 0.0.7,
+Project Freeman 0.0.8,
 - Created working chat box,
-- Set up structure for future server - client game updates,
-- moved online players window to right side of screen
+- Set up structure for future server /client game updates,
+- moved online players window to right side of screen,
+- (same as 0.0.7 just fixes crashing bug);
 =========
 Project Freeman 0.0.6,
 - launcher with improved text fields,
