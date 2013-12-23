@@ -1,3 +1,6 @@
+Project Freeman 0.0.9,
+- Fixes scrolling bug,
+- fixes server crashing bug for real;
 Project Freeman 0.0.8,
 - Created working chat box,
 - Set up structure for future server /client game updates,
