@@ -1,14 +1,14 @@
 Project Freeman 0.0.10,
 - Eliminated send button replaced with enter key,
 - Made all windows minimizable by double clicking its title,
-- Made player list box scrollable
-- lowered file size by ~300kb
-- game list is working
-- games auto save every 5 mintues
-- Limit game joining / creating to 3 games
-- you can no longer bypass the launcher
-- only one instance of Project Freeman can run at a time.
-- Merry Christmas!
+- Made player list box scrollable,
+- lowered file size by ~300kb,
+- game list is working,
+- games auto save every 5 mintues,
+- Limit game joining / creating to 3 games,
+- you can no longer bypass the launcher,
+- only one instance of Project Freeman can run at a time.,
+- Merry Christmas!;
 =========
 Project Freeman 0.0.9,
 - Fixes scrolling bug,
